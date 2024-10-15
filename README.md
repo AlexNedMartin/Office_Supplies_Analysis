@@ -12,4 +12,4 @@ Key Objectives:
 
 SQL queries and ETL stages are found in this repository.
 
-Tableau dashboard can be found here: 
+Tableau dashboard can be found here: https://public.tableau.com/app/profile/alex.martin8116/viz/OFFUREDASHBOARD/OverviewDashboard
