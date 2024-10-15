@@ -9,3 +9,7 @@ Offuture has provided a data file of their sales data from 2011 to 2015. They wo
 Key Objectives:
 * Load data, quality check & prepare
 * Visualisation and storytelling
+
+SQL queries and ETL stages are found in this repository.
+
+Tableau dashboard can be found here: 
